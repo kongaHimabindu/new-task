@@ -1,0 +1,82 @@
+html,
+body,
+.container {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+    background-image: url("../images/image2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+
+.wishper {
+    color: white;
+    margin-left: 2%;
+
+}
+
+.navigations {
+    margin-left: 50%;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul a {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+
+.center-content {
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+
+.center-content1 {
+    color: white;
+}
+
+.center-content2 pre {
+    color: white;
+}
+
+.button1 {
+    margin-right: 9%;
+}
+
+.image {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.card {
+    width: 18%;
+    height: 40%;
+
+}
+
+.cards-group {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 10%;
+
+}
+
+.image h6 {
+    color: yellow;
+}
